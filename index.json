@@ -1,5 +1,20 @@
 {
   "version": 1,
   "updatedAt": "2026-10-23T00:00:00.000Z",
-  "packages": []
+  "packages": [
+    {
+      "id": "io.ecodia.skins.bare",
+      "type": "skin",
+      "path": "Bare.skin.zip",
+      "name": "Bare",
+      "description": "The hello-world skin. Adjusts spacing and corner radius with zero visual opinion — a touch more open than the default shell.",
+      "author": "Ecodia",
+      "tags": [
+        "skin",
+        "minimal",
+        "spacing"
+      ],
+      "version": "1.0.0"
+    }
+  ]
 }

@@ -2,10 +2,11 @@
 
 | ID | Name |
 | --- | ---- |
+| `io.ecodia.skins.bare` | Bare |
 
 ## Sources
 
-_Skins are authored by Ecodia for the Theodia desktop app. No skins have been published yet — see `notes/skin-implementations.md` in the TheodiaDesktop repo for the planned catalog._
+- `io.ecodia.skins.bare`: The hello-world skin. Adjusts spacing and corner radius with zero visual opinion. Authored by Ecodia; see `notes/skin-implementations.md` in the TheodiaDesktop repo for the full planned catalog.
 
 ### Download Theodia.app
 
