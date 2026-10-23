@@ -15,6 +15,21 @@
         "spacing"
       ],
       "version": "1.0.0"
+    },
+    {
+      "id": "io.ecodia.skins.air",
+      "type": "skin",
+      "path": "Air.skin.zip",
+      "name": "Air",
+      "description": "Generous whitespace. Larger padding on cards, more line-height on text, a wider sidebar — for users who feel the default UI is a bit cramped.",
+      "author": "Ecodia",
+      "tags": [
+        "skin",
+        "minimal",
+        "spacious",
+        "accessibility"
+      ],
+      "version": "1.0.0"
     }
   ]
 }

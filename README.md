@@ -3,10 +3,12 @@
 | ID | Name |
 | --- | ---- |
 | `io.ecodia.skins.bare` | Bare |
+| `io.ecodia.skins.air` | Air |
 
 ## Sources
 
 - `io.ecodia.skins.bare`: The hello-world skin. Adjusts spacing and corner radius with zero visual opinion. Authored by Ecodia; see `notes/skin-implementations.md` in the TheodiaDesktop repo for the full planned catalog.
+- `io.ecodia.skins.air`: Generous whitespace — larger card padding, looser line-height, wider sidebar. Scales back on phone-sized windows via a `phone` variant.
 
 ### Download Theodia.app
 
