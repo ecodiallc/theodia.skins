@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T00:00:00.000Z",
+  "updatedAt": "2026-10-26T00:00:00.000Z",
   "packages": [
     {
       "id": "io.ecodia.skins.bare",
@@ -21,7 +21,7 @@
       "type": "skin",
       "path": "Air.skin.zip",
       "name": "Air",
-      "description": "Generous whitespace. Larger padding on cards, more line-height on text, a wider sidebar — for users who feel the default UI is a bit cramped.",
+      "description": "Generous whitespace. Larger padding on cards, more line-height on text, a wider sidebar — for users who feel the default UI is a bit cramped. Geometry-only: works on every client.",
       "author": "Ecodia",
       "tags": [
         "skin",
@@ -29,7 +29,7 @@
         "spacious",
         "accessibility"
       ],
-      "version": "1.0.0"
+      "version": "1.1.0"
     }
   ]
 }
