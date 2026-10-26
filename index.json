@@ -3,33 +3,30 @@
   "updatedAt": "2026-10-26T00:00:00.000Z",
   "packages": [
     {
+      "id": "io.ecodia.skins.air",
+      "type": "skin",
+      "path": "Air.skin.zip",
+      "name": "Air",
+      "description": "Generous whitespace. Larger padding on cards, more line-height on text, a wider sidebar — for users who feel the default UI is a bit cramped.",
+      "author": "Ecodia",
+      "version": "1.1.0",
+      "minAppVersion": "0.1.0",
+      "tags": [
+        "skin"
+      ]
+    },
+    {
       "id": "io.ecodia.skins.bare",
       "type": "skin",
       "path": "Bare.skin.zip",
       "name": "Bare",
       "description": "The hello-world skin. Adjusts spacing and corner radius with zero visual opinion — a touch more open than the default shell.",
       "author": "Ecodia",
+      "version": "1.0.0",
+      "minAppVersion": "0.1.0",
       "tags": [
-        "skin",
-        "minimal",
-        "spacing"
-      ],
-      "version": "1.0.0"
-    },
-    {
-      "id": "io.ecodia.skins.air",
-      "type": "skin",
-      "path": "Air.skin.zip",
-      "name": "Air",
-      "description": "Generous whitespace. Larger padding on cards, more line-height on text, a wider sidebar — for users who feel the default UI is a bit cramped. Geometry-only: works on every client.",
-      "author": "Ecodia",
-      "tags": [
-        "skin",
-        "minimal",
-        "spacious",
-        "accessibility"
-      ],
-      "version": "1.1.0"
+        "skin"
+      ]
     }
   ]
 }
