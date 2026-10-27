@@ -7,9 +7,9 @@
       "type": "skin",
       "path": "Air.skin.zip",
       "name": "Air",
-      "description": "Generous whitespace. Larger padding on cards, more line-height on text, a wider sidebar — for users who feel the default UI is a bit cramped.",
+      "description": "Generous whitespace. Larger padding on cards, more line-height on text, larger corner radius — for users who feel the default UI is a bit cramped.",
       "author": "Ecodia",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "minAppVersion": "0.1.0",
       "tags": [
         "skin"
@@ -20,9 +20,9 @@
       "type": "skin",
       "path": "Bare.skin.zip",
       "name": "Bare",
-      "description": "The hello-world skin. Adjusts spacing and corner radius with zero visual opinion — a touch more open than the default shell.",
+      "description": "The hello-world skin. Tight, minimal, sharp corners — strips the UI down to the essentials with no visual opinion.",
       "author": "Ecodia",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "minAppVersion": "0.1.0",
       "tags": [
         "skin"
